@@ -1,0 +1,23 @@
+{
+  "name": "cds_humi_tmp36",
+  "version": "1.0.0",
+  "description": "cds_humi_tmp36 node project",
+  "main": "cds_humi_tmp36.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cds",
+    "humi",
+    "tmp36",
+    "node",
+    "arduino"
+  ],
+  "author": "aa10",
+  "license": "MIT",
+  "dependencies": {
+    "save": "^2.9.0",
+    "serialport": "^9.2.4",
+    "socket.io": "^2.4.1"
+  }
+}
