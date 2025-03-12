@@ -1,2 +1,7 @@
 # aa10
-아두이노응용 실습과제 - aa10 유동기
+
+아두이노응용
+
+C++, node.js, mongoDB
+
+with Arduino uno r3, Arduino nano33 ble
